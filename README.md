@@ -1,7 +1,7 @@
 ![Loan_Sanction_Model](https://user-images.githubusercontent.com/109788233/187264457-e9ea3df2-792b-48bf-bc6d-e65c0051c2ba.png)
 
 # Loan_Sanction_Model
-I have developed a model that predicts if you are eligible for loan or not using Logistic Regression algorithm, for Data Visualization I have used matplotlib &amp; seaborn library. With the help of FLASK I have made an interface.
+I have developed a model that predicts if you are eligible for loan or not using Decision Tree Classifier algorithm, for Data Visualization I have used matplotlib &amp; seaborn library. With the help of FLASK I have made an interface.
 
 ## Deployment
 
